@@ -1,1 +1,1 @@
-utils function for version 3.
+utils function for version 6.
